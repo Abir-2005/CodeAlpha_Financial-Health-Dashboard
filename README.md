@@ -17,7 +17,7 @@ HIGHLIGHTS AND KEY INSIGHTS:-
   3) Cash Flow Management: The dashboard shows how much cash is flowing in and out of each company.                                This helps you understand how well they are managing their money. For                                   example, BetaSoft's cash flow was negative in February 2016 (-$39,355),                                 indicating they spent more cash than they brought in that month. Conversely,                            you can see strong cash flow months, such as CodeWorks' net cash flow of                                \$65,259 in May 2019.
 
 SCREENSHOTS:-
-https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Executive%20Summary.png
-https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Income%20Statement.png 
- https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Balance%20Sheet%20Analysis.png 
-https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Income%20Statement.png 
+  a) Balance_Sheet https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Balance%20Sheet%20Analysis.png
+  b) Equality_Analysis https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Equity%20Analysis.png
+  c) Executive_Summary https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Executive%20Summary.png
+  d) Income_Statement https://github.com/Abir-2005/CodeAlpha_Financial-Health-Dashboard/blob/main/Income%20Statement.png
